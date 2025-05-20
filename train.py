@@ -7,8 +7,8 @@ from model import MLP
 
 # -------------------- hiperparâmetros --------------------
 EPOCHS      = 200
-LR          = 1e-3
-BATCH_SIZE  = 64
+LR          = 8e-4
+BATCH_SIZE  = 32
 DATA_PATH   = "dataset.csv"
 MODEL_PATH  = "model.pth"
 # ---------------------------------------------------------
